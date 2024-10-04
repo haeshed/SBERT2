@@ -1,0 +1,8 @@
+/sbert
+/output
+/trained_sbert_model
+/checkpoints
+/final_model_dir
+/results
+/data
+/.venv
